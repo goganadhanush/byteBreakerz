@@ -155,4 +155,4 @@ elif menu_option == "🏆 Challenges":
             evaluation = query_gemini(evaluation_prompt)
         st.subheader("AI Evaluation:")
         st.write(evaluation)
-
+        
