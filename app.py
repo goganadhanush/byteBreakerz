@@ -5,7 +5,7 @@ import contextlib
 import time
 
 # Replace with your actual Google API Key from AI Studio
-GOOGLE_API_KEY = "AIzaSyAFma3e4utEGL9ot8OkiJqqSiLlIM6WsQw"
+GOOGLE_API_KEY = "API KEY"
 MODEL_NAME = "gemini-1.5-pro"
 
 st.set_page_config(page_title="My Compiler", page_icon="✨", layout="wide")
